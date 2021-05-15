@@ -19,7 +19,7 @@ Ctrl + F9
  * Choose the level from the MAIN MENU
  * Press any key to start the game
  * Use the following keys to control snake movement:
-  ##### A = left
+  \t\t##### A = left
   ##### W = up
   ##### D = right
   ##### S = down
