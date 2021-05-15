@@ -1,4 +1,4 @@
-# Snake-game
+# Snake&Food
 
 ## Description
 Snake game built in C++. The game has 3 levels with 15 food capturing steps in each level.\
