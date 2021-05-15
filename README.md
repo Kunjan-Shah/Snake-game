@@ -19,10 +19,10 @@ Ctrl + F9
  * Choose the level from the MAIN MENU
  * Press any key to start the game
  * Use the following keys to control snake movement:
-  - A = left
-  - W = up
-  - D = right
-  - S = down
+  -- A = left
+  -- W = up
+  -- D = right
+  -- S = down
  * The length of the snake increases with every food grain capture
  * The speed of the snake increases with every food grain capture
  * The task is to capture as many food grains as you can without touching any boundary points, else the game is over
